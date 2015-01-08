@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# TMP crap
+*~
+
+# Build stuff
+src/build
